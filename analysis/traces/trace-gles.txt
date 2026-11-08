@@ -1,0 +1,778 @@
+    RenderThread-3857  [007] d... 19485.397174: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [007] d... 19485.397190: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [007] d... 19485.397262: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+    RenderThread-3857  [007] d... 19485.398325: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [007] d... 19485.399261: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [007] d... 19485.399275: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [007] d... 19485.399917: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [007] d... 19485.399933: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [007] d... 19485.400403: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [007] d... 19485.400417: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [007] d... 19485.402282: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [007] d... 19485.402300: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+   kworker/u16:1-30631 [000] d... 19485.427040: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+   kworker/u16:1-30631 [000] d... 19485.427234: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+ egl-gles2-smoke-31408 [006] d... 19485.430265: pvropen: (pvr_drm_open+0x0/0x94 [pvrsrvkm])
+ egl-gles2-smoke-31408 [006] d... 19485.430341: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.430351: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeConnect+0x0 cmd=1 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.430381: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.430384: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeAcquireGlobalEventObject+0x0 cmd=1 fn=2
+ egl-gles2-smoke-31408 [006] d... 19485.430398: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.430401: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeAcquireInfoPage+0x0 cmd=1 fn=15
+ egl-gles2-smoke-31408 [006] d... 19485.430418: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.430422: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRLocalImportPMR+0x0 cmd=6 fn=6
+ egl-gles2-smoke-31408 [006] d... 19485.430650: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.430658: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeAlignmentCheck+0x0 cmd=1 fn=10
+ egl-gles2-smoke-31408 [006] d... 19485.430730: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.430734: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntCtxCreate+0x0 cmd=6 fn=15
+ egl-gles2-smoke-31408 [006] d... 19485.430871: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.430874: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeHeapCfgHeapCount+0x0 cmd=6 fn=30
+ egl-gles2-smoke-31408 [006] d... 19485.430880: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.430883: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeHeapCfgHeapDetails+0x0 cmd=6 fn=32
+ egl-gles2-smoke-31408 [006] d... 19485.430912: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.430915: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntHeapCreate+0x0 cmd=6 fn=17
+ egl-gles2-smoke-31408 [006] d... 19485.430927: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.430929: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeHeapCfgHeapDetails+0x0 cmd=6 fn=32
+ egl-gles2-smoke-31408 [006] d... 19485.430942: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.430945: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntHeapCreate+0x0 cmd=6 fn=17
+ egl-gles2-smoke-31408 [006] d... 19485.430954: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.430957: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeHeapCfgHeapDetails+0x0 cmd=6 fn=32
+ egl-gles2-smoke-31408 [006] d... 19485.430969: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.430972: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntHeapCreate+0x0 cmd=6 fn=17
+ egl-gles2-smoke-31408 [006] d... 19485.430980: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.430983: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeHeapCfgHeapDetails+0x0 cmd=6 fn=32
+ egl-gles2-smoke-31408 [006] d... 19485.430995: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.430998: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntHeapCreate+0x0 cmd=6 fn=17
+ egl-gles2-smoke-31408 [006] d... 19485.431010: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431013: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeHeapCfgHeapDetails+0x0 cmd=6 fn=32
+ egl-gles2-smoke-31408 [006] d... 19485.431032: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431035: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntHeapCreate+0x0 cmd=6 fn=17
+ egl-gles2-smoke-31408 [006] d... 19485.431044: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431046: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeHeapCfgHeapDetails+0x0 cmd=6 fn=32
+ egl-gles2-smoke-31408 [006] d... 19485.431058: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431061: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntHeapCreate+0x0 cmd=6 fn=17
+ egl-gles2-smoke-31408 [006] d... 19485.431069: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431072: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeHeapCfgHeapDetails+0x0 cmd=6 fn=32
+ egl-gles2-smoke-31408 [006] d... 19485.431084: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431087: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntHeapCreate+0x0 cmd=6 fn=17
+ egl-gles2-smoke-31408 [006] d... 19485.431095: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431098: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeHeapCfgHeapDetails+0x0 cmd=6 fn=32
+ egl-gles2-smoke-31408 [006] d... 19485.431117: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431120: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntHeapCreate+0x0 cmd=6 fn=17
+ egl-gles2-smoke-31408 [006] d... 19485.431133: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431136: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeHeapCfgHeapDetails+0x0 cmd=6 fn=32
+ egl-gles2-smoke-31408 [006] d... 19485.431147: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431150: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntHeapCreate+0x0 cmd=6 fn=17
+ egl-gles2-smoke-31408 [006] d... 19485.431158: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431161: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeHeapCfgHeapDetails+0x0 cmd=6 fn=32
+ egl-gles2-smoke-31408 [006] d... 19485.431177: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431180: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntHeapCreate+0x0 cmd=6 fn=17
+ egl-gles2-smoke-31408 [006] d... 19485.431188: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431191: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeHeapCfgHeapDetails+0x0 cmd=6 fn=32
+ egl-gles2-smoke-31408 [006] d... 19485.431206: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431209: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntHeapCreate+0x0 cmd=6 fn=17
+ egl-gles2-smoke-31408 [006] d... 19485.431231: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431234: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.431270: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431273: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.431293: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431295: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.431313: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431316: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.431359: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431362: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.431381: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.431384: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.431393: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431396: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.431450: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431453: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.431460: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.431463: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.431470: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431473: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.431503: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.431506: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.431513: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.431516: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.431751: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.431757: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectOpen+0x0 cmd=1 fn=4
+ egl-gles2-smoke-31408 [006] d... 19485.536761: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.536776: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectOpen+0x0 cmd=1 fn=4
+ egl-gles2-smoke-31408 [006] d... 19485.536819: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.536824: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.536865: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.536870: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.536889: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.536892: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.536914: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.536919: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.536980: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.536984: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.537021: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.537025: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.537048: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.537051: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.537064: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.537068: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.537082: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.537085: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.537128: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.537133: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.537153: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.537156: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.537168: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.537171: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.537186: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.537189: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.537224: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.537228: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.538573: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.538582: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.538617: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.538620: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.538639: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.538643: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.538661: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.538665: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.538990: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.539002: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectOpen+0x0 cmd=1 fn=4
+ egl-gles2-smoke-31408 [006] d... 19485.539025: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.539029: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectOpen+0x0 cmd=1 fn=4
+ egl-gles2-smoke-31408 [006] d... 19485.539441: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.539446: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.539605: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.539611: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.539637: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.539640: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.539655: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.539658: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.539674: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.539678: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.539801: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.539807: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.539828: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.539831: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.539843: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.539847: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.539860: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.539863: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.539875: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.539878: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.539890: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.539893: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.539914: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.539917: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.539938: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.539941: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.539954: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.539956: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.539970: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.539972: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.540007: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.540011: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.540034: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.540037: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.540049: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.540051: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.540067: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.540070: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.540147: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.540151: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.540171: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.540174: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.540184: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.540187: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.540206: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.540210: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.540222: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+ egl-gles2-smoke-31408 [006] d... 19485.540225: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXCreateRenderContext+0x0 cmd=130 fn=8
+ egl-gles2-smoke-31408 [006] d... 19485.540447: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.540451: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectOpen+0x0 cmd=1 fn=4
+ egl-gles2-smoke-31408 [006] d... 19485.540482: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.540486: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.540984: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.540988: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.541011: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.541015: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.541026: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.541029: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.541043: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.541046: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.541082: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.541086: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.541171: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.541175: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.541215: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.541218: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.541231: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.541234: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.541260: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.541263: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.541325: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.541329: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.541344: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.541347: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.541373: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.541376: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.541396: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.541399: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.541416: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.541419: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.541447: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.541450: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.541486: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.541489: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.541503: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.541506: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.541522: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.541525: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.541563: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.541566: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.541599: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.541602: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.542118: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.542123: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.542136: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.542139: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.542166: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.542169: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.542242: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.542246: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.542465: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.542468: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.542481: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.542484: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.542509: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.542512: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.542605: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.542609: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.542628: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.542631: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.542642: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.542645: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.542663: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.542666: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.542755: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.542759: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.542777: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.542780: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.542791: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.542794: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.542817: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.542820: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.542858: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.542861: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.542878: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.542881: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.542893: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.542896: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.542912: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.542915: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.542949: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.542952: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.542969: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.542972: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.542983: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.542986: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.543007: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.543010: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.543044: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.543047: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.543065: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.543068: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.543078: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.543081: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.543099: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.543102: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.543150: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.543155: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.543171: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.543175: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.543184: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.543187: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.543197: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.543200: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.544049: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544056: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.544081: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544085: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.544099: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544102: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.544121: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.544124: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.544165: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544169: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.544190: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544193: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.544219: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544222: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.544244: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.544247: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.544285: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544288: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.544305: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544308: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.544336: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544340: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.544361: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.544368: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.544399: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544403: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.544422: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544425: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.544435: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544438: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.544457: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.544460: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.544493: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544497: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.544513: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544516: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.544527: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544530: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.544552: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.544554: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.544587: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544590: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.544611: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544614: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.544627: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544629: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.544640: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.544643: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.544711: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544715: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.544771: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544774: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.544801: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544808: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.544841: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.544848: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.544898: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544901: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.544925: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544929: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.544939: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544942: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.544957: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.544964: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.544992: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.544995: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.545037: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.545040: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.545055: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.545057: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.545072: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.545075: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.545112: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.545116: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.545296: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.545299: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.545338: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.545342: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.545421: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.545424: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.545502: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.545506: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.545569: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.545573: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.545590: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.545593: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.545624: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.545627: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.548605: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.548620: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.548891: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.548896: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.548914: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.548918: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.548966: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.548970: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.549154: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.549158: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.549199: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.549203: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.549264: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.549267: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.549277: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.549280: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.549288: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+ egl-gles2-smoke-31408 [006] d... 19485.549291: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXCreateFreeList2+0x0 cmd=130 fn=15
+ egl-gles2-smoke-31408 [006] d... 19485.550059: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.550064: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.550089: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.550092: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.550105: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.550108: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.550116: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.550119: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.550128: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+ egl-gles2-smoke-31408 [006] d... 19485.550131: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXCreateFreeList2+0x0 cmd=130 fn=15
+ egl-gles2-smoke-31408 [006] d... 19485.550291: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.550295: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.550316: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.550319: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.550330: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.550333: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.550341: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.550344: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.550357: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.550360: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.550389: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.550392: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.550403: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.550407: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.550420: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.550423: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.550497: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.550500: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.550516: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.550519: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.550539: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=2
+ egl-gles2-smoke-31408 [006] d... 19485.550541: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeAllocSyncPrimitiveBlock+0x0 cmd=2 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.550598: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.550602: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRMakeLocalImportHandle+0x0 cmd=6 fn=3
+ egl-gles2-smoke-31408 [006] d... 19485.550615: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.550618: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRLocalImportPMR+0x0 cmd=6 fn=6
+ egl-gles2-smoke-31408 [006] d... 19485.550626: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.550628: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnmakeLocalImportHandle+0x0 cmd=6 fn=4
+ egl-gles2-smoke-31408 [006] d... 19485.550655: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=2
+ egl-gles2-smoke-31408 [006] d... 19485.550659: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeSyncAllocEvent+0x0 cmd=2 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.550665: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=2
+ egl-gles2-smoke-31408 [006] d... 19485.550668: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeSyncPrimSet+0x0 cmd=2 fn=2
+ egl-gles2-smoke-31408 [006] d... 19485.550676: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=2
+ egl-gles2-smoke-31408 [006] d... 19485.550745: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeSyncAllocEvent+0x0 cmd=2 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.550751: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=2
+ egl-gles2-smoke-31408 [006] d... 19485.550754: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeSyncPrimSet+0x0 cmd=2 fn=2
+ egl-gles2-smoke-31408 [006] d... 19485.550761: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+ egl-gles2-smoke-31408 [006] d... 19485.550764: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXCreateHWRTDataSet2+0x0 cmd=130 fn=16
+ egl-gles2-smoke-31408 [006] d... 19485.550916: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.550920: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeChangeSparseMem2+0x0 cmd=6 fn=44
+ egl-gles2-smoke-31408 [006] d... 19485.550967: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.550970: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistorySparseChange+0x0 cmd=19 fn=4
+ egl-gles2-smoke-31408 [006] d... 19485.551020: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.551024: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeChangeSparseMem2+0x0 cmd=6 fn=44
+ egl-gles2-smoke-31408 [006] d... 19485.551113: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.551116: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistorySparseChange+0x0 cmd=19 fn=4
+ egl-gles2-smoke-31408 [006] d... 19485.551174: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+ egl-gles2-smoke-31408 [006] d... 19485.551178: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+ egl-gles2-smoke-31408 [006] d... 19485.551243: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+ egl-gles2-smoke-31408 [006] d... 19485.552323: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+ egl-gles2-smoke-31408 [006] d... 19485.552572: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.552576: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectOpen+0x0 cmd=1 fn=4
+ egl-gles2-smoke-31408 [006] d... 19485.552595: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.552598: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectWait+0x0 cmd=1 fn=5
+ egl-gles2-smoke-31408 [006] d... 19485.553261: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.553264: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectClose+0x0 cmd=1 fn=6
+ egl-gles2-smoke-31408 [006] d... 19485.553336: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.553340: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.553364: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.553368: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.553380: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.553383: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.553396: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.553399: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.553519: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.553523: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectOpen+0x0 cmd=1 fn=4
+ egl-gles2-smoke-31408 [006] d... 19485.553534: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=128
+ egl-gles2-smoke-31408 [006] d... 19485.553537: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXCreateTransferContext+0x0 cmd=128 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.553696: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=2
+ egl-gles2-smoke-31408 [006] d... 19485.553700: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeAllocSyncPrimitiveBlock+0x0 cmd=2 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.553746: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.553750: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRMakeLocalImportHandle+0x0 cmd=6 fn=3
+ egl-gles2-smoke-31408 [006] d... 19485.553768: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.553771: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRLocalImportPMR+0x0 cmd=6 fn=6
+ egl-gles2-smoke-31408 [006] d... 19485.553779: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.553782: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnmakeLocalImportHandle+0x0 cmd=6 fn=4
+ egl-gles2-smoke-31408 [006] d... 19485.553813: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=2
+ egl-gles2-smoke-31408 [006] d... 19485.553817: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeSyncAllocEvent+0x0 cmd=2 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.553823: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=2
+ egl-gles2-smoke-31408 [006] d... 19485.553825: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeSyncPrimSet+0x0 cmd=2 fn=2
+ egl-gles2-smoke-31408 [006] d... 19485.553843: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.553846: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.553870: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.553873: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.553885: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.553888: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.553909: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.553912: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.553943: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.553946: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.553969: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.553972: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.554007: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.554010: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.554031: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.554034: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.554065: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.554069: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePhysmemNewRamBackedPMR+0x0 cmd=6 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.554094: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.554097: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.554111: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.554114: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.554139: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.554146: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.554175: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.554178: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRMakeLocalImportHandle+0x0 cmd=6 fn=3
+ egl-gles2-smoke-31408 [006] d... 19485.554190: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.554193: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRLocalImportPMR+0x0 cmd=6 fn=6
+ egl-gles2-smoke-31408 [006] d... 19485.554201: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.554203: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnmakeLocalImportHandle+0x0 cmd=6 fn=4
+ egl-gles2-smoke-31408 [006] d... 19485.554237: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.554240: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRMakeLocalImportHandle+0x0 cmd=6 fn=3
+ egl-gles2-smoke-31408 [006] d... 19485.554251: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.554253: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRLocalImportPMR+0x0 cmd=6 fn=6
+ egl-gles2-smoke-31408 [006] d... 19485.554260: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.554263: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnmakeLocalImportHandle+0x0 cmd=6 fn=4
+ egl-gles2-smoke-31408 [006] d... 19485.554277: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.554280: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntReserveRange2+0x0 cmd=6 fn=45
+ egl-gles2-smoke-31408 [006] d... 19485.554302: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.554305: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntMapPMR2+0x0 cmd=6 fn=47
+ egl-gles2-smoke-31408 [006] d... 19485.554325: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.554328: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryMap+0x0 cmd=19 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.554545: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=128
+ egl-gles2-smoke-31408 [006] d... 19485.554550: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXSubmitTransfer2+0x0 cmd=128 fn=3
+ egl-gles2-smoke-31408 [006] d... 19485.554628: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.554632: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectOpen+0x0 cmd=1 fn=4
+ egl-gles2-smoke-31408 [006] d... 19485.554645: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.554649: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectWait+0x0 cmd=1 fn=5
+ egl-gles2-smoke-31408 [006] d... 19485.555411: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.555415: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectClose+0x0 cmd=1 fn=6
+ egl-gles2-smoke-31408 [006] d... 19485.555448: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=13
+ egl-gles2-smoke-31408 [006] d... 19485.555452: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeCacheOpQueue+0x0 cmd=13 fn=0
+ egl-gles2-smoke-31408 [006] d... 19485.555469: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.555472: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.555517: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.555520: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.555531: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.555534: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.555549: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.555551: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.555923: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.555928: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.555956: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.555959: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.555971: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.555974: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.555985: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.555988: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.555999: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.556003: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.556014: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.556017: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.556034: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.556037: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectOpen+0x0 cmd=1 fn=4
+ egl-gles2-smoke-31408 [006] d... 19485.556048: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.556052: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectClose+0x0 cmd=1 fn=6
+ egl-gles2-smoke-31408 [006] d... 19485.556124: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.556127: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.556140: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.556142: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectOpen+0x0 cmd=1 fn=4
+ egl-gles2-smoke-31408 [006] d... 19485.556151: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.556154: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectClose+0x0 cmd=1 fn=6
+ egl-gles2-smoke-31408 [006] d... 19485.556165: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.556167: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectOpen+0x0 cmd=1 fn=4
+ egl-gles2-smoke-31408 [006] d... 19485.556175: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.556178: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectClose+0x0 cmd=1 fn=6
+ egl-gles2-smoke-31408 [006] d... 19485.556210: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.556213: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.556224: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556227: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.556239: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556242: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.556255: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556258: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.556293: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.556296: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.556306: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556309: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.556320: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556322: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.556335: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556337: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.556371: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.556374: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.556384: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556386: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.556397: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556400: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.556411: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556414: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.556443: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.556446: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.556462: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556464: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.556480: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556483: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.556496: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556499: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.556534: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.556537: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.556547: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556550: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.556561: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556564: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.556576: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556579: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.556599: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.556601: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectClose+0x0 cmd=1 fn=6
+ egl-gles2-smoke-31408 [006] d... 19485.556614: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.556617: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.556637: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556640: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.556649: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556652: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.556662: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556665: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.556677: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.556680: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.556693: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.556696: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.556717: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.556720: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectOpen+0x0 cmd=1 fn=4
+ egl-gles2-smoke-31408 [006] d... 19485.556729: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.556732: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectClose+0x0 cmd=1 fn=6
+ egl-gles2-smoke-31408 [006] d... 19485.556796: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.556800: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.556809: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556812: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.556829: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556831: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.556844: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556847: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.556875: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.556878: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.556886: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556888: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.556912: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556914: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.556928: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556931: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.556956: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.556959: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.556966: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556969: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.556982: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556985: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.556997: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.556999: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.557022: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.557026: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.557033: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557036: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.557053: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557055: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.557071: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557074: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.557104: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.557108: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.557115: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557117: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.557138: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557140: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.557152: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557155: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.557186: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.557189: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.557196: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557198: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.557208: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557211: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.557222: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557225: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.557249: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.557252: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.557260: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557263: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.557276: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557279: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.557295: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557298: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.557318: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.557321: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.557329: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557331: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.557354: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557361: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.557375: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557378: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.557403: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.557407: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.557414: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557417: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.557429: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557432: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.557443: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557446: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.557470: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.557473: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.557479: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557482: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.557503: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557506: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.557519: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557522: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.557548: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.557551: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.557558: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557561: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.557581: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557583: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.557596: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557598: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.557622: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.557625: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.557633: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557635: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.557645: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557648: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.557658: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.557662: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.557675: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+ egl-gles2-smoke-31408 [006] d... 19485.557679: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXDestroyRenderContext+0x0 cmd=130 fn=9
+ egl-gles2-smoke-31408 [006] d... 19485.558431: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.558436: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.558457: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.558460: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.558474: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.558477: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.558489: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.558491: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.558502: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.558505: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.558512: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.558515: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.558526: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.558529: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.558539: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.558542: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.558552: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.558554: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectClose+0x0 cmd=1 fn=6
+ egl-gles2-smoke-31408 [006] d... 19485.558562: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=1
+ egl-gles2-smoke-31408 [006] d... 19485.558564: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeEventObjectClose+0x0 cmd=1 fn=6
+ egl-gles2-smoke-31408 [006] d... 19485.559080: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=19
+ egl-gles2-smoke-31408 [006] d... 19485.559085: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevicememHistoryUnmap+0x0 cmd=19 fn=1
+ egl-gles2-smoke-31408 [006] d... 19485.559098: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.559101: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnmapPMR2+0x0 cmd=6 fn=48
+ egl-gles2-smoke-31408 [006] d... 19485.559114: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.559117: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeDevmemIntUnreserveRange2+0x0 cmd=6 fn=46
+ egl-gles2-smoke-31408 [006] d... 19485.559130: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=6
+ egl-gles2-smoke-31408 [006] d... 19485.559133: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgePMRUnrefPMR+0x0 cmd=6 fn=7
+ egl-gles2-smoke-31408 [006] d... 19485.562868: pvrrelease: (pvr_drm_release+0x0/0x30 [pvrsrvkm])
+   kworker/u16:1-30631 [001] d... 19485.570282: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+   kworker/u16:1-30631 [001] d... 19485.570506: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19485.715215: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19485.715238: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19485.715363: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+    RenderThread-3857  [005] d... 19485.716447: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19485.717129: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19485.717136: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19485.717467: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19485.717474: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19485.717711: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19485.717718: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19485.719208: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19485.719222: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+   kworker/u16:0-30363 [001] d... 19485.744182: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+   kworker/u16:0-30363 [001] d... 19485.744395: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])

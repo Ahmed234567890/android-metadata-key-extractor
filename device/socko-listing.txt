@@ -1,0 +1,27 @@
+total 7912
+drwxr-xr-x  3 root   root      4096 2026-01-09 10:26 .
+drwxrwxr-x 13 system system    4096 2026-06-24 10:03 ..
+-rw-r--r--  1 root   root     14912 2026-01-09 10:26 ant_check_div.ko
+-rw-r--r--  1 root   root    368888 2026-01-09 10:26 chipone-tddi.ko
+-rw-r--r--  1 root   root    580464 2026-01-09 10:26 chipone-tddi_ss.ko
+-rw-r--r--  1 root   root     16432 2026-01-09 10:26 flash_ic_aw3641.ko
+-rw-r--r--  1 root   root     24328 2026-01-09 10:26 flash_ic_ocp8137.ko
+-rw-r--r--  1 root   root     15120 2026-01-09 10:26 flash_ic_sc2703.ko
+-rw-r--r--  1 root   root     14464 2026-01-09 10:26 flash_ic_syx378duc.ko
+-rw-r--r--  1 root   root    113152 2026-01-09 10:26 focaltech_ts.ko
+-rw-r--r--  1 root   root    292048 2026-01-09 10:26 gcore_7202h.ko
+-rw-r--r--  1 root   root    232240 2026-01-09 10:26 gcore_ss.ko
+-rw-r--r--  1 root   root    804280 2026-01-09 10:26 ilitek-tddi.ko
+drwx------  2 root   root     16384 2026-01-09 10:26 lost+found
+-rw-r--r--  1 root   root     45152 2026-01-09 10:26 microarray_fp.ko
+-rw-r--r--  1 root   root    271224 2026-01-09 10:26 nt36xxx_ss.ko
+-rw-r--r--  1 root   root   2954344 2026-01-09 10:26 pvrsrvkm.ko
+-rw-r--r--  1 root   root   1267208 2026-01-09 10:26 sprd_camera.ko
+-rw-r--r--  1 root   root    136416 2026-01-09 10:26 sprd_cpp.ko
+-rw-r--r--  1 root   root     18192 2026-01-09 10:26 sprd_flash_drv.ko
+-rw-r--r--  1 root   root    146592 2026-01-09 10:26 sprd_fm.ko
+-rw-r--r--  1 root   root    212664 2026-01-09 10:26 sprd_sensor.ko
+-rw-r--r--  1 root   root     59632 2026-01-09 10:26 sprdbt_tty.ko
+-rw-r--r--  1 root   root    353840 2026-01-09 10:26 sprdwl_ng.ko
+-rw-r--r--  1 root   root     42200 2026-01-09 10:26 sunwave_sw9058g_fp.ko
+-rw-r--r--  1 root   root     45040 2026-01-09 10:26 tcs3430.ko

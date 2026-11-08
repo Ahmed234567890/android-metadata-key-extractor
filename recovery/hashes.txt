@@ -1,0 +1,11 @@
+# sha256 of the extracted images (2026-11-08, read-only)
+# Paths are relative to the image directory (default /home/ahmed).
+# These files are NOT stored in this repository.
+cd732bda9226e5542861e111227f6b9add6eed9a1fe70955936c22dbdd8e1cc9  userdata.img
+92a3e28023b66af40852c67762dc8c4b701f75e5db0806ad0fb1c89054741de8  userdata_encrypted.img
+2bb27e911cccc5348e771a3cb08e6a3b8820ee7c97706180f8599571dd53f6ae  userdata.trim.img
+bb015bbe4740a9fa1268a5401e67399915a183314fe3601a4cec11800bfc4b4d  metadata.img
+61a72289bfd1d33b4faf7f8cb8e82a3bf577c05ab8beba6b0f699525c15d7155  metadata.trim.img
+eee7b4e254ffd8d0cd54b23a517f658c2cd7122000ee28f535e16ec599d139f6  misc_p8_backup.img
+0727cd39a953b8479459f0ee09e05c41c39cb8b3616d4662a77fdf7b1b642138  boot_p40_backup.img
+129308edba5dcc80df1fb371e4024bcce6cadcd653cb8d7bc4f024f2f4b4ddc2  bootchk/boot_unrooted.img

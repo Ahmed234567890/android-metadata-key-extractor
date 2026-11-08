@@ -1,0 +1,4 @@
+Linux localhost 4.14.199-27418755-abA032FXXS9CZA2 #2 SMP PREEMPT Fri Jan 9 18:15:08 KST 2026 armv8l Toybox
+samsung/a3corexx/a3core:14/AP2A.240905.003/eng.crossg.20250125.124910:user/test-keys
+a3core
+enforcing

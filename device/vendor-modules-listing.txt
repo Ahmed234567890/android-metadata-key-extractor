@@ -1,0 +1,19 @@
+total 29760
+drwxr-xr-x 2 root shell      360 2026-11-01 04:56 .
+drwxr-xr-x 9 root shell    12288 2008-12-31 16:00 ..
+-rw-rw-rw- 1 root root    317464 2026-06-17 19:33 cdc_ether.ko
+-rw-rw-rw- 1 root root    302832 2026-06-17 19:33 cp210x.ko
+-rw-rw-rw- 1 root root    506616 2026-06-17 19:33 ftdi_sio.ko
+-rw-r--r-- 1 root root    105200 2008-12-31 16:00 incrementalfs.ko
+-rw-r--r-- 1 root root   3373048 2008-12-31 16:00 kheaders.ko
+-rw-rw-rw- 1 root root  19940056 2026-06-17 19:33 mac80211.ko
+-rw-r--r-- 1 root root        45 2008-12-31 16:00 modules.alias
+-rw-r--r-- 1 root root       218 2008-12-31 16:00 modules.dep
+-rw-r--r-- 1 root root       113 2008-12-31 16:00 modules.load
+-rw-r--r-- 1 root root        55 2008-12-31 16:00 modules.softdep
+-rw-rw-rw- 1 root root   5146288 2026-06-17 19:33 mt7601u.ko
+-rw-rw-rw- 1 root root    275984 2026-06-17 19:33 pl2303.ko
+-rw-rw-rw- 1 root root    350784 2026-06-17 19:33 spidev.ko
+-rw-r--r-- 1 root root     30352 2008-12-31 16:00 trace_irqsoff_bytedancy.ko
+-rw-r--r-- 1 root root     27000 2008-12-31 16:00 trace_noschedule_bytedancy.ko
+-rw-r--r-- 1 root root     22944 2008-12-31 16:00 trace_runqlat_bytedancy.ko

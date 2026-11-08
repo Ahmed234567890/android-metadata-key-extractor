@@ -1,0 +1,4 @@
+/sys/class/drm/renderD128
+/sys/class/drm/card1
+/sys/class/drm/card0-DSI-1
+/sys/class/drm/card0

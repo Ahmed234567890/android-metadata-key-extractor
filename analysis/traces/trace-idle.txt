@@ -1,0 +1,168 @@
+    RenderThread-3857  [007] d... 19491.705101: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [007] d... 19491.705123: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [007] d... 19491.705231: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+    RenderThread-3857  [007] d... 19491.706295: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [007] d... 19491.707217: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [007] d... 19491.707235: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [007] d... 19491.707850: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [007] d... 19491.707867: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [007] d... 19491.708367: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [007] d... 19491.708382: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [007] d... 19491.710176: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [007] d... 19491.710193: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+   kworker/u16:1-30631 [001] d... 19491.735045: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+   kworker/u16:1-30631 [001] d... 19491.735294: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19492.712226: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19492.712243: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19492.712319: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+    RenderThread-3857  [005] d... 19492.713397: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19492.714114: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19492.714124: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19492.714507: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19492.714514: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19492.714918: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19492.714935: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19492.716376: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19492.716387: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+   kworker/u16:3-31019 [000] d... 19492.741523: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+   kworker/u16:3-31019 [000] d... 19492.741781: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19493.708023: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19493.708045: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19493.708190: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+    RenderThread-3857  [005] d... 19493.709311: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19493.710085: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19493.710093: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19493.710486: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19493.710492: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19493.710816: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19493.710823: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19493.712294: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19493.712307: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+   kworker/u16:1-30631 [001] d... 19493.737425: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+   kworker/u16:1-30631 [001] d... 19493.737689: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19494.701165: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19494.701182: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19494.701248: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+    RenderThread-3857  [005] d... 19494.702313: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19494.702943: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19494.702953: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19494.703345: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19494.703353: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19494.703603: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19494.703610: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19494.705007: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19494.705017: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+   kworker/u16:3-31019 [001] d... 19494.729906: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+   kworker/u16:3-31019 [001] d... 19494.730134: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19495.713372: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19495.713389: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19495.713454: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+    RenderThread-3857  [005] d... 19495.714519: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19495.715210: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19495.715221: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19495.715671: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19495.715679: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19495.715961: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19495.715967: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19495.717399: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19495.717450: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+   kworker/u16:1-30631 [002] d... 19495.742477: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+   kworker/u16:1-30631 [002] d... 19495.742641: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19496.706294: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19496.706312: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19496.706374: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+    RenderThread-3857  [005] d... 19496.707445: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19496.708106: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19496.708115: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19496.708532: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19496.708539: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19496.708780: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19496.708787: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19496.710215: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19496.710226: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+   kworker/u16:3-31019 [003] d... 19496.735274: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+   kworker/u16:3-31019 [003] d... 19496.735492: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19497.701647: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19497.701671: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19497.701758: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+    RenderThread-3857  [005] d... 19497.702858: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19497.703476: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19497.703485: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19497.703896: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19497.703903: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19497.704173: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19497.704178: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19497.705560: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19497.705572: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+   kworker/u16:3-31019 [001] d... 19497.730579: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+   kworker/u16:3-31019 [001] d... 19497.730824: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19498.712072: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19498.712094: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19498.712173: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+    RenderThread-3857  [005] d... 19498.713330: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19498.713918: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19498.713927: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19498.714288: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19498.714296: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19498.714554: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19498.714561: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19498.716117: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19498.716130: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+   kworker/u16:1-30631 [001] d... 19498.741115: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+   kworker/u16:1-30631 [001] d... 19498.741302: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19499.706657: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19499.706679: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19499.707039: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+    RenderThread-3857  [005] d... 19499.708117: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19499.708756: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19499.708765: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19499.709139: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19499.709146: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19499.709418: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19499.709425: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19499.710908: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19499.710921: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+   kworker/u16:3-31019 [001] d... 19499.735947: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+   kworker/u16:3-31019 [001] d... 19499.736175: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19500.701309: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19500.701334: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19500.701418: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+    RenderThread-3857  [005] d... 19500.702495: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19500.703262: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19500.703312: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19500.703689: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19500.703696: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19500.703971: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19500.703978: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19500.705430: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19500.705443: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+   kworker/u16:3-31019 [001] d... 19500.730397: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+   kworker/u16:3-31019 [001] d... 19500.730656: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19501.712924: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19501.712945: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19501.713028: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+    RenderThread-3857  [005] d... 19501.714218: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19501.714962: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19501.714970: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19501.715349: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19501.715357: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19501.715622: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19501.715629: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19501.717085: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19501.717097: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+   kworker/u16:1-30631 [000] d... 19501.742073: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+   kworker/u16:1-30631 [000] d... 19501.742248: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19502.707075: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19502.707097: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19502.707239: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+    RenderThread-3857  [005] d... 19502.708318: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])
+    RenderThread-3857  [005] d... 19502.708991: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19502.708999: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19502.709366: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19502.709372: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19502.709623: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19502.709629: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+    RenderThread-3857  [005] d... 19502.711102: pvrdispatch: (BridgedDispatchKM+0x0/0x5d8 [pvrsrvkm]) cmd=130
+    RenderThread-3857  [005] d... 19502.711113: pvrhandler: (BridgedDispatchKM+0x470/0x5d8 [pvrsrvkm]) handler=PVRSRVBridgeRGXKickTA3D2+0x0 cmd=130 fn=12
+   kworker/u16:3-31019 [001] d... 19502.736095: rgxpoweroff: (RGXPrePowerState+0x0/0x350 [pvrsrvkm])
+   kworker/u16:3-31019 [001] d... 19502.736329: rgxpoweron: (RGXPostPowerState+0x0/0x16c [pvrsrvkm])

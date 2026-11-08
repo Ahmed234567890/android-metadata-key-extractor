@@ -1,0 +1,27 @@
+Module                  Size  Used by
+sprdwl_ng             163840  0 
+pl2303                 20480  -208571401 [permanent]
+cp210x                 24576  -208279625 [permanent]
+cdc_ether              16384  -208885729 [permanent]
+spidev                 20480  -208905233 [permanent]
+ftdi_sio               57344  -206175113 [permanent]
+flash_ic_syx378duc     16384  0 
+flash_ic_aw3641        16384  0 
+flash_ic_ocp8137       20480  0 
+flash_ic_sc2703        16384  0 
+sprd_fm                61440  0 
+sprdbt_tty             24576  0 
+mt7601u               118784  -204971249 [permanent]
+mac80211              741376  -205626544 mt7601u,[permanent]
+pvrsrvkm             1261568  813 
+gcore_7202h           151552  0 
+ilitek_tddi           421888  0 
+gcore_ss              135168  0 
+chipone_tddi_ss       262144  0 
+nt36xxx_ss            155648  0 
+ant_check_div          16384  0 
+sprd_cpp               65536  0 
+sprd_camera           872448  1 sprd_cpp
+sprd_flash_drv         16384  5 flash_ic_syx378duc,flash_ic_aw3641,flash_ic_ocp8137,flash_ic_sc2703,sprd_camera
+sprd_sensor            98304  1 sprd_camera
+incrementalfs          57344  2 

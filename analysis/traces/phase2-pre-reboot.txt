@@ -1,0 +1,28 @@
+PRE-REBOOT
+Sat Nov  7 17:37:40 CET 2026
+194b65c3-ed2f-47b0-8403-56588fdd9d55
+pvrsrvkm             1261568  687 
+687
+DevMemFWHeapPolicy=0x00000005
+DisableClockGating=N
+DisableDMOverlap=N
+DriverMode=0x7fffffff
+EmuMaxFreq=0x00000000
+EnableFWContextSwitch=0x0000000f
+EnableFullSyncTracking=N
+EnablePageFaultDebug=Y
+EnableRDPowerIsland=0x00000002
+EnableSoftResetContextSwitch=N
+FWContextSwitchCrossDM=0x00000000
+FWTraceBufSizeInDWords=0x00002ee0
+GeneralNon4KHeapPageSize=0x00004000
+HTBufferSizeInKB=0x00000040
+IgnoreHWReportedBVNC=N
+PVRDebugLevel=7
+PhysMemTestPasses=0x00000000
+RGXBVNC=(none)
+total 0
+crw-rw-rw- 1 root graphics 226,   0 2026-11-07 11:53 card0
+crw-rw-rw- 1 root graphics 226,   1 2026-11-07 11:53 card1
+crw-rw-rw- 1 root graphics 226, 128 2026-11-07 11:53 renderD128
+16880
