@@ -17,6 +17,10 @@ Recover the 64-byte Android metadata key that encrypts `/data` (userdata partiti
 device's own TrustKernel TEE, so that the encrypted userdata image can be decrypted and the
 data extracted — **without ever wiping, formatting, or writing to `/data` or `/metadata`**.
 
+> **Public-release note**: the recovered key value is deliberately **redacted** here and is held
+> only in private local storage (`recovery/keys/metadata_key.bin`, git-ignored, never published).
+> The procedure below is the public description of how it was obtained.
+
 ---
 
 ## Step 0 — Capture the raw images (read-only)
@@ -87,12 +91,14 @@ Tags (wire value = tag id, little-endian u32):
 
 ### 2.4 — Recovered key
 
-Hex (64 bytes):
+The 64-byte key is produced by the TEE during the `UPDATE` operation; its exact value is
+**intentionally not reproduced here**. It was persisted locally (git-ignored) and used to derive
+the fscrypt content keys:
 
-```
-```
-
-Saved to `recovery/keys/metadata_key.bin` (kept private; **not** published).
+- Contents key: `PRK = HMAC-SHA512(64 zero bytes, master key)` → HKDF (fscrypt v2) → AES-256 key.
+- Content cipher: **AES-256-XTS**, tweak = block index (`le64(ino<<32) + lblk`).
+- Filename cipher: AES-CBC, IV = `le64(ino<<32) + 8 zero bytes`, after CS3 swap of the last two
+  16-byte blocks.
 
 ---
 
@@ -165,7 +171,9 @@ block was subsequently restored from a pristine decrypted block.
 
 ## References
 
-- `../recovery/README.md` — triage notes.
-- `../recovery/analysis.md` — detailed findings.
-- `../recovery/hashes.txt` — hashes.
-- `../scripts/verify.sh` — read-only verification.
+- [`../README.md`](../README.md) — public overview.
+- [`../docs/RECOVERY.md`](../docs/RECOVERY.md) — full recovery writeup.
+- [`../recovery/README.md`](../recovery/README.md) — triage notes.
+- [`../recovery/analysis.md`](../recovery/analysis.md) — detailed findings.
+- [`../recovery/hashes.txt`](../recovery/hashes.txt) — hashes.
+- [`../scripts/verify.sh`](../scripts/verify.sh) — read-only verification.
